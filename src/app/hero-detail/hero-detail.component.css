@@ -1,0 +1,93 @@
+label {
+    font-weight: bold;
+    font-size: 24px;
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  input {
+    font-size: 0.8em;
+    padding: .5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+  button {
+    margin-top: 9px;
+    background-color: #eee;
+    padding:  0.7rem;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    margin-left: 5px;
+  }
+  button:hover {
+    background-color: #cfd8dc;
+  }
+  button:disabled {
+    background-color: #eee;
+    color: #ccc;
+    cursor: auto;
+  }
+
+  #new-name {
+    width: 240px;
+    position: relative;
+    margin-left: 10px;
+  }
+
+  label {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .go-back-button {
+
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    background-color: #eee;
+    padding: .6rem .5rem; 
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-left: 5px;
+    position: relative;
+    width: 80px;
+   
+   }
+
+   .save-button {
+
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    background-color: #eee;
+    padding: .6rem .5rem; 
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-left: 5px;
+    position: relative;
+    width: 80px;
+   
+   }
+
+   #hero-name {
+    width: 240px;
+    height: 18px;
+    position: relative;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-left: 1px;
+  }
+
+  .try {
+
+    font-weight: bold;
+    font-size: 20px;
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2 {
+    font-weight: bold;
+    font-size: 28px;
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+  }

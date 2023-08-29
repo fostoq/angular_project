@@ -1,0 +1,128 @@
+.heroes {
+  margin: 0 0 2em 0;
+  list-style-type: none;
+  padding: 0;
+  width: 15em;
+}
+
+.heroes-title {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 3px;
+  color:#333;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: .5rem;
+  margin: 1rem 0;
+  box-sizing: border-box;
+
+}
+
+.heroes li {
+  position: relative;
+  cursor: pointer;
+}
+
+.heroes li:hover {
+  left: .1em;
+}
+
+.heroes a {
+  color: #333;
+  text-decoration: none;
+  background-color: #EEE;
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 4px;
+  display: block;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heroes a:hover {
+  color: #2c3a41;
+  background-color: #e6e6e6;
+}
+
+.heroes a:active {
+  background-color: #525252;
+  color: #fafafa;
+}
+
+.heroes .badge {
+  display: inline-block;
+  font-size: small;
+  color: white;
+  padding: 0.8em 0.7em 0 0.7em;
+  background-color: #405061;
+  line-height: 1em;
+  position: relative;
+  left: -1px;
+  top: -4px;
+  height: 1.8em;
+  min-width: 16px;
+  text-align: right;
+  margin-right: .8em;
+  border-radius: 4px 0 0 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-button {
+
+ margin-top: 2.5px;
+ margin-bottom: 2.5px;
+ background-color: #eee;
+ padding: .6rem .5rem; 
+ border-radius: 4px;
+ font-size: 0.8rem;
+ margin-left: 5px;
+ position: relative;
+ width: 80px;
+
+}
+
+.add-button:hover {
+  color: white;
+  background-color: #42545C;
+}
+
+button.delete {
+  left: 210px;
+  top: 5px;
+  background-color:  #525252;
+  color:  white;
+  font-size: 1.1rem;
+  margin: 0; 
+  padding: 1px 10px 3px 10px;
+  border-width: 0px;
+  position: absolute;
+}
+
+button.delete:hover {
+  background-color: white;
+  color: #405061;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
+  color:#333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#new-hero {
+  width: 240px;
+  height: 38px;
+  position: relative;
+  margin-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
