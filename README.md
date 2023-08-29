@@ -5,7 +5,7 @@ It demonstrates my skills and experiences in angular in particular highlights th
 
 ## Live Demo :D
 
-You can view the live demo of my angular project at https://fostoq.github.io/abdoon_angular_project
+You can view the live demo of my angular project at https://fostoq.github.io/angular_project
 
 ## For more info please follow the page below
 
