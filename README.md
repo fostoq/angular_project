@@ -4,7 +4,6 @@ This is my angular website project built with Angular and generated with the hel
 It demonstrates my skills and experiences in angular in particular highlights the use of services, Injectables, observables, routes, error handling, remote server and in-memory functionality. 
 
 Angular, a robust and versatile front-end framework, forms the foundation of this project. Within this project, I've harnessed Angular's capabilities to their fullest, with a particular emphasis on several key aspects:
-
 1. Services and Injectables:
 
   I've harnessed the power of Angular services and injectables to encapsulate and manage data and functionality throughout the application. These services promote code modularity and reusability, enabling a clean and maintainable architecture.
